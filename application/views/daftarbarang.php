@@ -1,0 +1,9 @@
+<ul>
+	<li>Handphone</li>
+	<li>Modem</li>
+	<li>Komputer</li>
+	<li>Kulkas</li>
+	<li>Bakul</li>
+	<li>Gorengan</li>
+	<li>Bala-bala</li>
+</ul>
